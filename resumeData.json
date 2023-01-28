@@ -1,0 +1,195 @@
+{
+  "main": {
+    "name": "Diego Chinchilla",
+    "occupation": "Futuro ingeniero de sistemas 10 semestre,",
+    "description": "cuento amplios conocimientos en BI, Sql, datastudio, powerbi, ofimatica, automatizacion de procesos y programacion en lenguajes como react.js | php | python | R-studio , acontinuacion podras dar click en los iconos para que veas mi perfil en las sigueintes plataformas",
+    "image": "1669341078279.jpg",
+    "bio": "Futuro ingeniero de sistemas 10 semestre ",
+    "contactmessage": "Si deseas contactarme te comparto mis datos .",
+    "email": "Diego.chinchilla23@gmail.com",
+    "phone": "+573133153488",
+    "address": {
+      "city": "(Bogota - Colombia)"
+    },
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/diego-f-chinchilla-a6715a86/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/dchinchilla23e",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/dchinchilla23",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Universidad Ecci",
+        "degree": "Ingenieria de sistemas",
+        "graduated": "Actualmente"
+      },
+      {
+        "school": "Sena",
+        "degree": "Sistematizar datos masivos de acuerdo con métodos de analítica y herramientas tecnológicas",
+        "graduated": "Junio 2020",
+        "description": ""
+      },
+      {
+        "school": "Sena",
+        "degree": "Tecnologo en analisis y desarrollo de sistemas de información",
+        "graduated": "Diciembre 2019",
+        "description": ""
+      }
+    ],
+    "Cursos": [
+      {
+        "company": "Udemy",
+        "title": "User Experience Design Fundamental",
+        "years": "dic. 2022"
+      },
+      {
+        "company": "Udemy",
+        "title": "Symfony 5 - The complete Guide for Beginners 2022",
+        "years": "Agosto 2022"
+      },
+      {
+        "company": "Udemy",
+        "title": "Evoluciona desde Excel a Python",
+        "years": "Abril 2022"
+      },
+      {
+        "company": "CertiProf",
+        "title": "Scrum Foundation Certicate",
+        "years": "Agosto 2020"
+      },
+      {
+        "company": "Sena",
+        "title": "manejo de herramientas administrativas ",
+        "years": "Mayo 2023"
+      },
+      {
+        "company": "People Cert",
+        "title": "ITIL® Foundation Certificate in IT Service Management",
+        "years": "Mayo 2019"
+      }
+
+    ],
+
+    "work": [
+      {
+        "company": "Andikem",
+        "title": "Full Stack PHP Developer ",
+        "years": "Mayo 2022 - Enero 2023",
+        "description": "Programación y desarrollo de aplicaciones en PHP, administración y desarrollo de OROINC, programación de plataforma blackpearl en NODE.JS, administración de AWS , creación de RDS en AWS , GitHub . javascript y React.js conocimiento MVC , Java , Spring Framework , Spring Boot Control y monitoreo de cambios de versiones, despliegue de herramientas en AWS y creacion de Bases de datos. HTML, CSS, Javascript, AJAX, composer , symfony, linux , npm, react.js , uso de git hub para control de versiones y uso de dependencias de npm y composer , administración backend en php"
+      },
+      {
+        "company": "Indra misaint colombia",
+        "title": "Desarrollador backend",
+        "years": "Octubre 2021 - Mayo 2022",
+        "description": "Generación de automatizaciones para procesos de deservidores Linux y Windows, desarrollo en Php, laravel y Ansible, Python, actualización y creación de dashboard para el control de ejecución de automatizaciones presentadas, creación de bases de datos y administración en navicat, mysql, dbbeader, Oracle, Sql. Poweshell conforme a requerimientos de cliente para la optimización de procesos"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Php",
+        "level": "55%"
+      },
+      {
+        "name": "React.Js",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Aws",
+        "level": "70%"
+      },
+      {
+        "name": "Sql, posgresSql ,mysql , mariadb",
+        "level": "80%"
+      },
+      {
+        "name": "DataStudio",
+        "level": "80%"
+      },
+      {
+        "name": "PowerBi",
+        "level": "50%"
+      },
+      {
+        "name": "Offimatica",
+        "level": "90%"
+      },
+      {
+        "name": "Microsoft Excel",
+        "level": "94%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Comprometido, responsable, honesto y trabajador",
+        "user": "Luis Pulido"
+      },
+      {
+        "text": "Recursivo, innovador , de caracter fuerte pero sicncer y muy competitivo",
+        "user": "Jorge gomez"
+      }
+    ]
+  }
+}
