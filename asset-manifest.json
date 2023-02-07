@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/CvDiegoCh/static/css/main.31d6cfe0.css",
-    "main.js": "/CvDiegoCh/static/js/main.034ee4af.js",
+    "main.js": "/CvDiegoCh/static/js/main.9dc491d6.js",
     "index.html": "/CvDiegoCh/index.html",
-    "main.034ee4af.js.map": "/CvDiegoCh/static/js/main.034ee4af.js.map"
+    "main.9dc491d6.js.map": "/CvDiegoCh/static/js/main.9dc491d6.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.034ee4af.js"
+    "static/js/main.9dc491d6.js"
   ]
 }
